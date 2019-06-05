@@ -15,7 +15,7 @@ var items = []Item{
 	Item{"Backstage passes to a TAFKAL80ETC concert", 15, 20},
 	Item{"Backstage passes to a GOGETBTC concert", 15, 20},
 	Item{"Conjured Mana Cake", 3, 6},
-	Item{"Conjured Mana Potion", 3, 6},
+	Item{"Conjured Mana Potion", 3, 6}
 }
 
 func main() {
