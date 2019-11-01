@@ -37,7 +37,7 @@ Pretty simple, right? Well this is where it gets interesting:
     and by 3 when there are 5 days or less but quality drops to 0 after the
     concert
 
-We have recently signed a supplier of conjured items. This requires an update
+We have recently signed a supplier of conjured_quality items. This requires an update
 to our system:
 
   - "Conjured" items degrade in quality twice as fast as normal items
